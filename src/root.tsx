@@ -19,6 +19,7 @@ export default function Root() {
     <Html lang="en">
       <Head>
         <Title>SolidStart - Bare</Title>
+        <meta name="google-site-verification" content="c9piwcFxYzvr2jFI0j1BmmfclWvbWslZB1K1K8-UZJc" />
         <Meta charset="utf-8" />
         <Meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
